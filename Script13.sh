@@ -1,3 +1,4 @@
+
 #!/bin/sh
 
 echo "Please enter the vaule of a"
@@ -32,3 +33,5 @@ then
 else
  echo "$a -lt 100 -o $b -gt 100 : returns false"
 fi
+
+echo "bye"
