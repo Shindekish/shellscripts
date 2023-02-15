@@ -4,6 +4,8 @@ echo "Value of a"
 read a
 echo "Value of b"
 read b
-echo "Hello value of a is $a and value of b is $b"
+echo "value of c"
+read c
+echo "Hello value of a is $a and value of b is $b and value of c is $c"
 echo "This is sample change"
 echo "bye"
